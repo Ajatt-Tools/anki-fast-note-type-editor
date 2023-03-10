@@ -6,6 +6,14 @@ the speed of some actions. In the case where you only use basic card
 and have a small collection, you probably won't see any difference
 while installing this add-on.
 
+## Installation
+
+Install manually with `git`:
+
+```
+git clone 'https://github.com/Ajatt-Tools/anki-fast-note-type-editor.git' ~/.local/share/Anki2/addons21/fast_note_type_editor
+```
+
 ## Warning
 This add-on change plenty of methods. Which means that this add-on
 risks to be incompatible with other add-on. Incompatible add-on will
